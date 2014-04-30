@@ -1,0 +1,3 @@
+title: Bayesian PokerBot
+seas-usernames: dkatzenelson, shanyigu, eginton, lerickson
+
